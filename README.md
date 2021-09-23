@@ -7,7 +7,8 @@
   * upload your game to itch.io
 ## Table Of Contents
 1. [Overview](#Overview)
-2. [Demo](#Demo)
+2. [Screenshots](#Screenshots)
+3. [Demo](#Demo)
 
 Authors: Ryan Kwong, Thomas Lao, Koshi Huynh
 
