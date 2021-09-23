@@ -13,7 +13,10 @@
 Authors: Ryan Kwong, Thomas Lao, Koshi Huynh
 
 ### Overview
-  Our game is called Hermes. It is a 3D puzzle platformer with no art, 100% development and programming effort from the 3 programmers: Ryan Kwong, Thomas Lao and Koshi Huynh. The game is designed to put the player in the position of Jack and the Bean stalk as he attempts to raid god's vault.
+ 
+This game is a 3D puzzle platformer put together by 3 programmers: Ryan Kwong, Thomas Lao, Koshi Huynh. We worked on this game for 4 weeks and it turned out quite well/
+The game is designed to put the player in the position of Jack and the Bean stalk as he attempts to raid god's vault. 
+
   
 ### Description
 
