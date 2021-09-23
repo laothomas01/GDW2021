@@ -24,6 +24,8 @@ Can you live up to your namesake, the god of thieves, or will your greed be your
 ### Screenshots
 <img src="2k9mZv.gif" width="600" />
 
+<img src = "EasyLevel1FirstPuzzle.png" width = "600 " />
+
  
 ### Demo
 
