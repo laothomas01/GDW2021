@@ -21,7 +21,7 @@ Make your way through dangerous puzzles and various terrains as you face the obs
 Can you live up to your namesake, the god of thieves, or will your greed be your ultimate downfall?  
 
 ### Screenshots
-<img src="2k9mZv.gif" width="500" />
+<img src="2k9mZv.gif" width="1000" />
 
  
 ### Demo
