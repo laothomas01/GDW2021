@@ -14,7 +14,7 @@ Authors: Ryan Kwong, Thomas Lao, Koshi Huynh
 
 ### Overview
  
-This game is a 3D puzzle platformer put together by 3 programmers: Ryan Kwong, Thomas Lao, Koshi Huynh. We worked on this game for 4 weeks and it turned out quite well/
+This game is a 3D puzzle platformer put together by 3 programmers: Ryan Kwong, Thomas Lao, Koshi Huynh. We worked on this game for 4 weeks and published it to itchi.io.
 The game is designed to put the player in the position of Jack and the Bean stalk as he attempts to raid god's vault. 
 
   
