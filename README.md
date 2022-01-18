@@ -1,10 +1,4 @@
-# GDW2021
-  GWD2021 is a Summer game development workshop led by the officers of the Game Development Club at San Jose State University.
-  * You are put into a team
-  * Create a design document 
-  * Begin pre-production
-  * Develop in a 4 week time span using SCRUM framework
-  * upload your game to itch.io
+# Hermes
 ## Table Of Contents
 1. [Overview](#Overview)
 2. [Screenshots](#Screenshots)
